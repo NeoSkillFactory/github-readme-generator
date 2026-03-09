@@ -2,20 +2,25 @@
 
 ![Audit](https://img.shields.io/badge/audit%3A%20PASS-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![OpenClaw](https://img.shields.io/badge/OpenClaw-skill-orange)
 
-> A skill that analyzes GitHub repositories and automatically generates comprehensive README files with installation instructions, API documentation, and usage ex
+> Automatically generates comprehensive README files from GitHub repositories with installation, API docs, and usage examples.
 
-I'll continue from where the previous model attempt left off. Let me check the current state and pick up the task.
+## Features
 
-## OpenClaw Marketplace
+- Analyze GitHub repository structure and extract key information
+- Generate comprehensive README files with proper sections and formatting
+- Create installation instructions based on package.json, requirements.txt, and project structure
+- Generate API documentation from code comments and function signatures
+- Create usage examples from existing code patterns
+- Handle various programming languages and frameworks automatically
+- Provide clean CLI interface for direct usage and agent integration
+- Validate generated READMEs for completeness and quality
+- Handle errors gracefully with meaningful messages and exit codes
 
-This skill is available on [ClawHub](https://clawhub.ai) — the OpenClaw skill marketplace.
-Install it in any OpenClaw agent workspace with:
+## GitHub
 
-```bash
-clawhub install github-readme-generator
-```
+Source code: [github.com/NeoSkillFactory/github-readme-generator](https://github.com/NeoSkillFactory/github-readme-generator)
 
-**Recommended price when commercial:** $19.99 USD
+**Price suggestion:** $19.99 USD
 
 ## License
 
