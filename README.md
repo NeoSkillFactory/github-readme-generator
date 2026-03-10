@@ -20,8 +20,6 @@
 
 Source code: [github.com/NeoSkillFactory/github-readme-generator](https://github.com/NeoSkillFactory/github-readme-generator)
 
-**Price suggestion:** $19.99 USD
-
 ## License
 
 MIT © NeoSkillFactory
